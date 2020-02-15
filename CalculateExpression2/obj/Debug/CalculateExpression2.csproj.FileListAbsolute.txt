@@ -1,0 +1,7 @@
+D:\MasterClass\CalculateExpression2\CalculateExpression2\bin\Debug\CalculateExpression2.exe.config
+D:\MasterClass\CalculateExpression2\CalculateExpression2\bin\Debug\CalculateExpression2.exe
+D:\MasterClass\CalculateExpression2\CalculateExpression2\bin\Debug\CalculateExpression2.pdb
+D:\MasterClass\CalculateExpression2\CalculateExpression2\obj\Debug\CalculateExpression2.csprojAssemblyReference.cache
+D:\MasterClass\CalculateExpression2\CalculateExpression2\obj\Debug\CalculateExpression2.csproj.CoreCompileInputs.cache
+D:\MasterClass\CalculateExpression2\CalculateExpression2\obj\Debug\CalculateExpression2.exe
+D:\MasterClass\CalculateExpression2\CalculateExpression2\obj\Debug\CalculateExpression2.pdb
